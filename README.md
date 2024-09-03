@@ -53,6 +53,40 @@ A web application that allows users to manage their personal library of books.
 
 ## Deployment
 
+1. **Log in to Heroku**:
+
+    ```bash
+    heroku login
+    ```
+2. **Create a Heroku app**:
+
+    ```bash
+    heroku create your-app-name
+    ```
 The application is deployed on Heroku. To deploy it yourself:
 ![image](https://github.com/user-attachments/assets/deb64061-e68e-4a48-b9a9-0382df3d5da4)
 
+Creat new app 'book-library-app-fastapi-jwt'
+![image](https://github.com/user-attachments/assets/e28a041d-fb7c-4e3e-a1b7-37ed2d409fcb)
+
+
+
+3. **Push the code to Heroku**:
+
+    ```bash
+    git push heroku master
+    ```
+
+4. **Open the deployed application**:
+
+    ```bash
+    heroku open
+    ```
+
+## Deployed Application
+
+You can access the deployed application [here](https://book-library-app-fastapi-jwt.herokuapp.com).
+
+## License
+
+This project is licensed under the MIT License. See the `LICENSE` file for details.
