@@ -48,4 +48,5 @@ A web application that allows users to manage their personal library of books.
 ## Deployment
 
 The application is deployed on Heroku. To deploy it yourself:
+![image](https://github.com/user-attachments/assets/deb64061-e68e-4a48-b9a9-0382df3d5da4)
 
