@@ -45,6 +45,12 @@ A web application that allows users to manage their personal library of books.
 
     Visit `http://127.0.0.1:8000` in your browser.
 
+    Visit `http://127.0.0.1:8000/docs` in your browser.
+   Preview fastAPI documentation
+
+   ![image](https://github.com/user-attachments/assets/361087c4-42ab-467e-8d17-e92553008fe0)
+
+
 ## Deployment
 
 The application is deployed on Heroku. To deploy it yourself:
